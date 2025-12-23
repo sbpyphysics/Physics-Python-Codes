@@ -1,1 +1,1 @@
-Still now there are different type of python codes of different system in physics, there are mostly python codes of chaos but now I am also interested in astrophysics and quantaum mechanics so I will add there codes here.
+Some Basic Codes for Chos, Lorenz Equation, Density of States for Condensed Matter Physics and Basic ODE solving.
